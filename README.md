@@ -1,1 +1,2 @@
 # federato
+This project focuses on analyzing user interaction data to uncover patterns in event sequences and build a predictive model using Markov chains. The goal is to understand user behavior, identify common pathways, and predict the next likely event based on the current event. The data, sourced from Amplitude exports for 2024 and 2025, includes user events such as session interactions, event types, and timestamps.
